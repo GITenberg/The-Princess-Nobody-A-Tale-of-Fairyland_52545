@@ -1,0 +1,51 @@
+_repo: The-Princess-Nobody-A-Tale-of-Fairyland_52545
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Doyle, Richard
+    aliases:
+    - Kitcat, Dick
+    - Doyle, R. (Richard)
+    birthdate: 1824
+    deathdate: 1883
+    gutenberg_agent_id: '9472'
+    url: http://www.gutenberg.org/2009/agents/9472
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Doyle_%28illustrator%29
+  - agent_name: Evans, Edmund
+    alias: Evans, E. (Edmund)
+    birthdate: 1826
+    deathdate: 1905
+    gutenberg_agent_id: '31336'
+    url: http://www.gutenberg.org/2009/agents/31336
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2016-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courts and courtiers -- Juvenile fiction'
+- !lcsh 'Dwarfs -- Juvenile fiction'
+- !lcsh 'Fairy tales'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Quests (Expeditions) -- Juvenile fiction'
+- !lcsh 'Princesses -- Juvenile fiction'
+- !lcsh 'Courtship -- Juvenile fiction'
+- !lcsh 'Promises -- Juvenile fiction'
+- GITenberg
+title: 'The Princess Nobody: A Tale of Fairyland'
+url: http://www.gutenberg.org/ebooks/52545
